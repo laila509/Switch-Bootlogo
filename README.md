@@ -10,6 +10,7 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 See the [contributing guide](CONTRIBUTING.md).
 
 # Final Submissions
+![QL-ATM](https://github.com/laila509/NX-Bootlogo/blob/master/logo12.jpg?raw=true)
 
 ### Crusard
 
