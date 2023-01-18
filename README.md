@@ -1,10 +1,9 @@
 
 # 两种伪装开机样图
+# 下载  https://github.com/laila509/NX-Bootlogo/releases
 ![伪装](https://github.com/laila509/NX-Bootlogo/blob/master/logo12.jpg?raw=true)
 
-# 下载  https://github.com/laila509/NX-Bootlogo/releases
-
-### Crusard
+### 其它的大气层开机图
 
 **Atmosphere**
 ![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
