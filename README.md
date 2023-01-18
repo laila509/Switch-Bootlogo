@@ -1,17 +1,5 @@
 
-### The competition is now over, thank you all for your great work!
-
-# Atmosphère Splashes
-
-This repo is to track the work on people's splash submissions for [Atmosphère-NX](https://github.com/Atmosphere-NX/Atmosphere). In-progress submissions can be found in `in_progress`, final submissions are in `final`.
-
-# Contributing
-
-See the [contributing guide](CONTRIBUTING.md).
-
-# Final Submissions
-
-# 伪装开机样图
+# 两种伪装开机样图
 ![伪装](https://github.com/laila509/NX-Bootlogo/blob/master/logo12.jpg?raw=true)
 
 # 下载  https://github.com/laila509/NX-Bootlogo/releases
